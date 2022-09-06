@@ -100,7 +100,7 @@ ignore:
 theme: nexmoe
 
 # Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
+### Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
   repo: git@github.com:SoraKasvgano/hexo.git
