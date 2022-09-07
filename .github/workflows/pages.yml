@@ -55,8 +55,8 @@ jobs:
         run: rm -rf /.deploy_git
       - name: Clean
         run: npm run clean
-      - name: HexoClean
-        run: hexo clean
+      #- name: HexoClean
+      #  run: hexo clean
       - name: HexoGD
         run: hexo g -d
       - name: Build
