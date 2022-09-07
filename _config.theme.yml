@@ -83,6 +83,11 @@ widgets:
                 - rgba(247, 132, 34, .1)
     - name: category
       enable: true
+    - name: comment
+      enable: true
+       commet: disqus
+        disqus:
+         shortname:hexos0r4
     - name: tagcloud
       enable: true
       options: 
