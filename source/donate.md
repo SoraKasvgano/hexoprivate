@@ -1,7 +1,7 @@
 ---
 title: 捐助
 cover: https://cdn.jsdelivr.net/gh/nexmoe/image@latest/wea.png
-abbrlink:donate
+abbrlink: donate
 ---
 
 # 捐助我们
