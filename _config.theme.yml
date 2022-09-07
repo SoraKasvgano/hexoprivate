@@ -126,6 +126,9 @@ slotSidebar: '<br><a target="_blank" href="https://beian.miit.gov.cn/">鄂ICP备
 
 # 评论框插槽
 slotComment: '请在你的配置文件中设置评论框插槽'
+comment: gitalk
+disqus:
+  shortname: hexos0r4
 
 slotCopyright: '<strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可'
 
