@@ -49,6 +49,8 @@ jobs:
       # 安装主题
       - name: Install Theme
         run: git submodule add https://github.com/theme-nexmoe/hexo-theme-nexmoe.git themes/nexmoe
+      - name: Install WordCount
+        run: npm i --save hexo-wordcount
       - name: Clean
         run: npm run clean
       - name: Build
